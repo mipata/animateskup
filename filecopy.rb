@@ -5,7 +5,7 @@
 require 'fileutils'
 
 # Source File
-sourceFile = "stairs.rb"
+sourceFile = "stairs_movie.rb"
 
 #Destination folder
 destFolder = "C:\\Program Files (x86)\\Google\\Google SketchUp 8\\Plugins\\"

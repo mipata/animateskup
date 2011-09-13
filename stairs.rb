@@ -19,6 +19,7 @@ def draw_stairs
   rise = 8
   run = 12
   width = 100
+  thickness = 3
 
   # Get "handles" to our model and the Entities collection it contains.
   model = Sketchup.active_model
@@ -40,5 +41,6 @@ def draw_stairs
 
     # Call methods on the Entities collection to draw stuff.
     new_face = entities.add_face pt1, pt2, pt3, pt4
+    new_face.pushpull thickness
   end
 end

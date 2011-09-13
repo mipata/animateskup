@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="937a8386-b062-4426-ab9c-69549cabf1f4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filecopy.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stairs_movie.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stairs_movie_layers.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filecopy.rb" afterPath="$PROJECT_DIR$/filecopy.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stairs.rb" afterPath="$PROJECT_DIR$/stairs.rb" />
     </list>
     <ignored path="animateskup.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,19 +38,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stairs.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stairs.rb">
+      <file leaf-file-name="stairs_movie.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stairs_movie.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="20" selection-start="843" selection-end="843" vertical-scroll-proportion="0.0">
+            <state line="33" column="2" selection-start="721" selection-end="721" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="filecopy.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="stairs_movie_layers.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stairs_movie_layers.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="15" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="biplanes_moves.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/airshow/biplanes_moves.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="140" column="0" selection-start="4157" selection-end="4157" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="movable_ci.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/airshow/movable_ci.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="14" selection-start="2289" selection-end="2289" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="transformable_ci.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Downloads/airshow/transformable_ci.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="-0.35581395">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filecopy.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/filecopy.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="16" selection-start="622" selection-end="622" vertical-scroll-proportion="0.8530259">
+            <state line="7" column="26" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -75,6 +114,8 @@
         <option value="$PROJECT_DIR$/hello_world.rb" />
         <option value="$PROJECT_DIR$/stairs.rb" />
         <option value="$PROJECT_DIR$/filecopy.rb" />
+        <option value="$PROJECT_DIR$/stairs_movie.rb" />
+        <option value="$PROJECT_DIR$/stairs_movie_layers.rb" />
       </list>
     </option>
   </component>
@@ -124,8 +165,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Favorites" />
       <pane id="Scope" />
+      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -294,21 +335,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="681" y="3" width="683" height="738" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="683" height="738" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.105802044" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3379845" sideWeight="0.66040957" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28217053" sideWeight="0.8634812" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33959043" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13651878" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.105802044" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -367,12 +408,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stairs.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="20" selection-start="843" selection-end="843" vertical-scroll-proportion="0.0" />
+        <state line="31" column="12" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/filecopy.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="16" selection-start="622" selection-end="622" vertical-scroll-proportion="0.8530259">
+        <state line="7" column="26" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stairs_movie.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="2" selection-start="721" selection-end="721" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stairs_movie_layers.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="15" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/airshow/biplanes_moves.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="140" column="0" selection-start="4157" selection-end="4157" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/airshow/movable_ci.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="14" selection-start="2289" selection-end="2289" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/airshow/transformable_ci.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="-0.35581395">
           <folding />
         </state>
       </provider>
