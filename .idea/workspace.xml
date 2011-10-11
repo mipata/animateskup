@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="937a8386-b062-4426-ab9c-69549cabf1f4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movable_ci.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/table_movie.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transformable_ci.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filecopy.rb" afterPath="$PROJECT_DIR$/filecopy.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/table_movie.rb" afterPath="$PROJECT_DIR$/table_movie.rb" />
     </list>
     <ignored path="animateskup.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,10 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stairs_movie.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="stairs_movie.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stairs_movie.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="2" selection-start="721" selection-end="721" vertical-scroll-proportion="0.0">
+            <state line="45" column="48" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.25908557">
               <folding />
             </state>
           </provider>
@@ -50,16 +47,7 @@
       <file leaf-file-name="table_movie.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/table_movie.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="153" selection-end="190" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="transformable_ci.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/transformable_ci.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="49" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0">
+            <state line="24" column="0" selection-start="252" selection-end="686" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -77,16 +65,7 @@
       <file leaf-file-name="filecopy.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/filecopy.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="19" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="movable_ci.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/airshow/movable_ci.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="14" selection-start="0" selection-end="6968" vertical-scroll-proportion="0.0">
+            <state line="19" column="98" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -95,16 +74,16 @@
       <file leaf-file-name="movable_ci.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/movable_ci.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="35" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+            <state line="29" column="30" selection-start="940" selection-end="940" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="movable_ci.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/movable_ci.rb">
+      <file leaf-file-name="transformable_ci.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/transformable_ci.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="41" selection-start="833" selection-end="833" vertical-scroll-proportion="0.40980393">
+            <state line="52" column="66" selection-start="1900" selection-end="1900" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -133,11 +112,11 @@
         <option value="$PROJECT_DIR$/stairs.rb" />
         <option value="$PROJECT_DIR$/stairs_movie.rb" />
         <option value="$PROJECT_DIR$/stairs_movie_layers.rb" />
-        <option value="$PROJECT_DIR$/movable_ci.rb" />
         <option value="$PROJECT_DIR$/filecopy.rb" />
+        <option value="C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/movable_ci.rb" />
+        <option value="$PROJECT_DIR$/movable_ci.rb" />
         <option value="$PROJECT_DIR$/transformable_ci.rb" />
         <option value="$PROJECT_DIR$/table_movie.rb" />
-        <option value="C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/movable_ci.rb" />
       </list>
     </option>
   </component>
@@ -167,22 +146,12 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="animateskup" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; ruby-1.9.2-p290 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -197,6 +166,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,6 +197,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mipata\rails_projects\animateskup" />
       <recent name="D:\programming\animateskup" />
     </key>
   </component>
@@ -366,16 +338,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="683" height="738" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28217053" sideWeight="0.8634812" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19305857" sideWeight="0.8638858" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13651878" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13611417" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -432,49 +404,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/airshow/biplanes_moves.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="0" selection-start="4157" selection-end="4157" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/airshow/movable_ci.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="14" selection-start="0" selection-end="6968" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello_world.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="2" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stairs.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="18" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stairs_movie.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="2" selection-start="721" selection-end="721" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filecopy.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="19" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/airshow/transformable_ci.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="30" selection-start="0" selection-end="3279" vertical-scroll-proportion="2.8196077">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stairs_movie_layers.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="15" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0" />
@@ -482,35 +411,42 @@
     </entry>
     <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Tools/sketchup.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.9666667">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.9666667" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello_world.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="2" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/table_movie.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="153" selection-end="190" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="24" column="0" selection-start="252" selection-end="686" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/transformable_ci.rb">
+    <entry file="file://$PROJECT_DIR$/stairs.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="49" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="28" column="18" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filecopy.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="98" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/movable_ci.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="35" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="29" column="30" selection-start="940" selection-end="940" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/movable_ci.rb">
+    <entry file="file://$PROJECT_DIR$/transformable_ci.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="41" selection-start="833" selection-end="833" vertical-scroll-proportion="0.40980393">
+        <state line="52" column="66" selection-start="1900" selection-end="1900" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stairs_movie.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="48" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.25908557">
           <folding />
         </state>
       </provider>
