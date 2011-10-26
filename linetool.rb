@@ -344,5 +344,5 @@ UI.menu("Draw").add_item("Line Tool") {
 add_separator_to_menu("Draw")
 UI.menu("Draw").add_item("Find Anim Line") {
   line = Sketchup.active_model
-  .select_tool atool
+  Sketchup.active_model.select_tool atool
 }

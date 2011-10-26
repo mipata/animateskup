@@ -5,18 +5,22 @@
 require 'fileutils'
 
 # Source File
-sourceFile = "table_movie.rb"
+# copyFile("a\\table_movie.rb")
 
-#Destination folder
-destFolder = "C:\\Program Files (x86)\\Google\\Google SketchUp 8\\Plugins\\"
-destFile = destFolder + sourceFile
+def copyfile( sourceFile, destSubFolder="" )
+  #Destination folder
+  destFolder = "C:\\Program Files (x86)\\Google\\Google SketchUp 8\\Plugins\\"<<destSubFolder
+  destFile = destFolder + sourceFile
 
-# Print out if the file exists
-print File.exists?(sourceFile),"\n"
+  # Print out if the file exists
+  print File.exists?(sourceFile),"\n"
 
-# More debugging
-print "Copying " + sourceFile + " to " + destFile + "\n"
+  # More debugging
+  print "Copying " + sourceFile + " to " + destFile + "\n"
 
-#opens/creates
-FileUtils.cp sourceFile, destFile
+  #opens/creates
+  FileUtils.cp sourceFile, destFile
+end
 
+copyfile("linetool.rb")
+copyfile("anim.rb","a\\")

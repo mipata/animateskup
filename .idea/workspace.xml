@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="937a8386-b062-4426-ab9c-69549cabf1f4" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\mipata\rails_projects\animateskup\malm_twin_bed.skp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/malm_twin_bed_animation.skp" afterPath="$PROJECT_DIR$/malm_twin_bed_animation.skp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filecopy.rb" afterPath="$PROJECT_DIR$/filecopy.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linetool.rb" afterPath="$PROJECT_DIR$/linetool.rb" />
     </list>
     <ignored path="animateskup.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,28 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="hello_world.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello_world.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="2" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="table_movie.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/table_movie.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="24" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="anim.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/anim.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="27" selection-start="824" selection-end="824" vertical-scroll-proportion="0.0">
+            <state line="10" column="29" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -55,52 +41,16 @@
       <file leaf-file-name="linetool.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/linetool.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="324" column="59" selection-start="11112" selection-end="11112" vertical-scroll-proportion="0.28929767">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rectangle.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_rectangle.zip/rectangle.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="250" column="0" selection-start="6708" selection-end="6927" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stairs.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stairs.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="18" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="filecopy.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/filecopy.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="98" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0">
+            <state line="306" column="49" selection-start="10534" selection-end="10534" vertical-scroll-proportion="0.8269231">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="movable_ci.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/movable_ci.rb">
+        <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/movable_ci.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="31" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="transformable_ci.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/transformable_ci.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="66" selection-start="1900" selection-end="1900" vertical-scroll-proportion="0.0">
+            <state line="6" column="6" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -129,13 +79,14 @@
         <option value="$PROJECT_DIR$/stairs.rb" />
         <option value="$PROJECT_DIR$/stairs_movie.rb" />
         <option value="$PROJECT_DIR$/stairs_movie_layers.rb" />
-        <option value="$PROJECT_DIR$/filecopy.rb" />
         <option value="C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/movable_ci.rb" />
         <option value="$PROJECT_DIR$/transformable_ci.rb" />
         <option value="$PROJECT_DIR$/table_movie.rb" />
         <option value="$PROJECT_DIR$/movable_ci.rb" />
-        <option value="C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/anim.rb" />
         <option value="C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/Examples/linetool.rb" />
+        <option value="$PROJECT_DIR$/filecopy.rb" />
+        <option value="$PROJECT_DIR$/linetool.rb" />
+        <option value="C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/anim.rb" />
         <option value="C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/linetool.rb" />
       </list>
     </option>
@@ -166,8 +117,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Favorites" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -188,6 +137,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Favorites" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -234,7 +185,9 @@
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/filecopy.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyDebugRunner" />
       <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
@@ -358,16 +311,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0922619" sideWeight="0.8638858" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13611417" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16594361" sideWeight="0.6004391" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39956093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35784853" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -421,7 +374,18 @@
     <MESSAGE value="Stairs plugin created." />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/filecopy.rb</url>
+          <line>24</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/filecopy.rb</url>
+          <line>11</line>
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/stairs_movie_layers.rb">
@@ -436,9 +400,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stairs_movie.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="48" selection-start="1022" selection-end="1022" vertical-scroll-proportion="1.4488636">
-          <folding />
-        </state>
+        <state line="45" column="48" selection-start="1022" selection-end="1022" vertical-scroll-proportion="1.4488636" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anim.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="38" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/Examples/linetool.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="330" column="0" selection-start="11087" selection-end="11087" vertical-scroll-proportion="0.85785955" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transformable_ci.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="25" selection-start="2341" selection-end="2341" vertical-scroll-proportion="1.2759815" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello_world.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="2" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stairs.rb">
@@ -448,71 +430,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/filecopy.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="98" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0" />
+        <state line="21" column="0" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/transformable_ci.rb">
+    <entry file="file://$PROJECT_DIR$/linetool.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="66" selection-start="1900" selection-end="1900" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello_world.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="2" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" />
+        <state line="346" column="23" selection-start="11645" selection-end="11645" vertical-scroll-proportion="0.86538464" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/table_movie.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="14" column="24" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/movable_ci.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="31" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+        <state line="3" column="31" selection-start="167" selection-end="167" vertical-scroll-proportion="0.057692308">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/anim.rb">
+    <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/movable_ci.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="38" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/Examples/linetool.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="330" column="0" selection-start="11087" selection-end="11087" vertical-scroll-proportion="0.85785955">
+        <state line="6" column="6" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/anim.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="27" selection-start="824" selection-end="824" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_rectangle.zip/rectangle.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="250" column="0" selection-start="6708" selection-end="6927" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_bezier.zip/bezier.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="493" column="116" selection-start="13286" selection-end="13286" vertical-scroll-proportion="0.44481605">
+        <state line="10" column="29" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/linetool.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="324" column="59" selection-start="11112" selection-end="11112" vertical-scroll-proportion="0.28929767">
+        <state line="306" column="49" selection-start="10534" selection-end="10534" vertical-scroll-proportion="0.8269231">
           <folding />
         </state>
       </provider>
