@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="937a8386-b062-4426-ab9c-69549cabf1f4" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\mipata\rails_projects\animateskup\malm_twin_bed.skp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/malm_twin_bed_animation.skp" afterPath="$PROJECT_DIR$/malm_twin_bed_animation.skp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filecopy.rb" afterPath="$PROJECT_DIR$/filecopy.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linetool.rb" afterPath="$PROJECT_DIR$/linetool.rb" />
-    </list>
+    <list default="true" id="937a8386-b062-4426-ab9c-69549cabf1f4" name="Default" comment="" />
     <ignored path="animateskup.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="anim.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="anim.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/anim.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="29" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
+            <state line="21" column="65" selection-start="502" selection-end="502" vertical-scroll-proportion="0.40384614">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="linetool.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="linetool.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/linetool.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="306" column="49" selection-start="10534" selection-end="10534" vertical-scroll-proportion="0.8269231">
+            <state line="286" column="56" selection-start="10113" selection-end="10113" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -50,7 +44,7 @@
       <file leaf-file-name="movable_ci.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/movable_ci.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="6" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
+            <state line="35" column="58" selection-start="1145" selection-end="1145" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -86,8 +80,8 @@
         <option value="C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/Examples/linetool.rb" />
         <option value="$PROJECT_DIR$/filecopy.rb" />
         <option value="$PROJECT_DIR$/linetool.rb" />
-        <option value="C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/anim.rb" />
         <option value="C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/linetool.rb" />
+        <option value="C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/anim.rb" />
       </list>
     </option>
   </component>
@@ -454,21 +448,21 @@
     </entry>
     <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/movable_ci.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/anim.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="29" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
+        <state line="35" column="58" selection-start="1145" selection-end="1145" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/linetool.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="306" column="49" selection-start="10534" selection-end="10534" vertical-scroll-proportion="0.8269231">
+        <state line="286" column="56" selection-start="10113" selection-end="10113" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/anim.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="65" selection-start="502" selection-end="502" vertical-scroll-proportion="0.40384614">
           <folding />
         </state>
       </provider>

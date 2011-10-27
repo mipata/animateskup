@@ -13,6 +13,7 @@
 #-----------------------------------------------------------------------------
 
 require 'sketchup.rb'
+require 'a/anim.rb'
 
 #-----------------------------------------------------------------------------
 
@@ -272,10 +273,18 @@ def create_geometry(p1, p2, view)
   anim_path = view.model.entities.add_cline(p1,p2)
   anim_path.set_attribute "anim", "start", p1
   anim_path.set_attribute "anim", "end", p2
-  anim_path.set_attribute "anim", "component", 123
+  anim_path.set_attribute "anim", "startcomponent", 123
   puts anim_path.get_attribute "anim", "start"
   puts anim_path.get_attribute "anim", "end"
-  puts anim_path.get_attribute "anim", "component"
+  puts anim_path.get_attribute "anim", "startcomponent"
+
+  movable_ent = findanimcomponent anim_path
+  mvbl = MovableCI.new( movable_ent )
+  anim = Anim.new( mvbl, anim_path )
+  puts "animation.startTime: ",anim.startTime
+  puts "animation.mvbl: ",anim.mvbl
+  puts "animation.i: ",anim.frameNum
+  Sketchup.active_model().active_view().animation = anim
 end
 
 # Draw the geometry
@@ -285,48 +294,6 @@ end
 
 end # class LineTool
 
-#-----------------------------------------------------------------------------
-# You can use inheritance in Ruby to use the LineTool class as a base class
-# for similar kinds of tools.  For example, this is a tool that creates
-# cylinders by selecting the two end points.
-
-class CylTool < LineTool
-
-# The cylinder tool takes a radius when you create it
-def initialize(radius = 1)
-    @radius = radius
-    @numsegs = 16
-    super()
-end
-
-# Now we just have to override the create_geometry method.  You could also
-# override the draw_geometry method to make it draw a closer represenation
-# to waht it will really create.
-def create_geometry(pt1, pt2, view)
-    model = view.model
-    model.start_operation $exStrings.GetString("Create Cylinder")
-    entities = model.entities
-    
-    # First create a circle
-    vec = pt2 - pt1
-    length = vec.length
-    if( length == 0.0 )
-        UI.beep
-        puts "Cannot create a zero length cylinder"
-        return
-    end
-    circle = entities.add_circle pt1, vec, @radius, @numsegs
-
-    # Now do a pushpull to create the cylinder
-    face = entities.add_face circle
-    normal = face.normal
-    length = -length if( (normal % vec) < 0.0 )
-    face.pushpull length
-
-    model.commit_operation
-end
-
-end # class CylTool
 
 #-----------------------------------------------------------------------------
 # This functions is just a shortcut for selecting the new tool
@@ -334,6 +301,8 @@ def linetool
     Sketchup.active_model.select_tool LineTool.new
 end
 
+
+#Shortcut Shift+l  (L)
 add_separator_to_menu("Draw")
 UI.menu("Draw").add_item("Line Tool") {
   atool = LineTool.new
@@ -341,8 +310,25 @@ UI.menu("Draw").add_item("Line Tool") {
 }
 
 
+#Shortcut Shift+;  (:)
 add_separator_to_menu("Draw")
 UI.menu("Draw").add_item("Find Anim Line") {
   line = Sketchup.active_model
   Sketchup.active_model.select_tool atool
 }
+
+# Find component attached to start of animline
+def findanimcomponent( animline )
+  startpoint = animline.start
+  entities = Sketchup.active_model.entities
+
+  entities.each { |entity|
+    if entity.typename == "ComponentInstance"
+      if entity.bounds.contains? startpoint
+        return entity
+      end
+    end
+  }
+
+  return nil
+end
