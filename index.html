@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>This is a VIDEO!</title>
+    <script src="video.js" type="text/javascript" charset="utf-8"></script>
+    <link rel="stylesheet" href="video-js.css" type="text/css" media="screen" title="Video JS" charset="utf-8">
+    <script type="text/javascript" charset="utf-8">
+        // Add VideoJS to all video tags on the page when the DOM is ready
+        VideoJS.setupAllWhenReady();
+    </script>
+</head>
+<body>
+
+    <div>
+        video begin.
+    </div>
+
+  <!-- Begin VideoJS -->
+  <div class="video-js-box">
+    <!-- Using the Video for Everybody Embed Code http://camendesign.com/code/video_for_everybody -->
+    <video class="video-js" width="640" height="480" controls preload poster="video-screenshot.jpg">
+      <source src="video.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+      <!--<source src="http://video-js.zencoder.com/oceans-clip.webm" type='video/webm; codecs="vp8, vorbis"' />-->
+      <source src="video.ogg" type='video/ogg; codecs="theora, vorbis"' />
+      <!--&lt;!&ndash; Flash Fallback. Use any flash video player here. Make sure to keep the vjs-flash-fallback class. &ndash;&gt;-->
+      <!--<object class="vjs-flash-fallback" width="640" height="264" type="application/x-shockwave-flash"-->
+        <!--data="http://releases.flowplayer.org/swf/flowplayer-3.2.1.swf">-->
+        <!--<param name="movie" value="http://releases.flowplayer.org/swf/flowplayer-3.2.1.swf" />-->
+        <!--<param name="allowfullscreen" value="true" />-->
+        <!--<param name="flashvars" value='config={"playlist":["http://video-js.zencoder.com/oceans-clip.png", {"url": "http://video-js.zencoder.com/oceans-clip.mp4","autoPlay":false,"autoBuffering":true}]}' />-->
+        <!--&lt;!&ndash; Image Fallback. Typically the same as the poster image. &ndash;&gt;-->
+        <!--<img src="http://video-js.zencoder.com/oceans-clip.png" width="640" height="264" alt="Poster Image"-->
+          <!--title="No video playback capabilities." />-->
+      <!--</object>-->
+    </video>
+  </div>
+  <!-- End VideoJS -->
+
+    <div>
+        video end.
+    </div>
+</body>
+</html>

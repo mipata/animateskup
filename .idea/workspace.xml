@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="937a8386-b062-4426-ab9c-69549cabf1f4" name="Default" comment="" />
+    <list default="true" id="937a8386-b062-4426-ab9c-69549cabf1f4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/malm_twin_bed_animation.skp" afterPath="$PROJECT_DIR$/malm_twin_bed_animation.skp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="animateskup.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,10 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="anim.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="anim.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/anim.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="65" selection-start="502" selection-end="502" vertical-scroll-proportion="0.40384614">
+            <state line="29" column="49" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="51" selection-start="793" selection-end="793" vertical-scroll-proportion="0.4224852">
               <folding />
             </state>
           </provider>
@@ -82,6 +94,7 @@
         <option value="$PROJECT_DIR$/linetool.rb" />
         <option value="C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/linetool.rb" />
         <option value="C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/anim.rb" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -111,6 +124,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -132,7 +146,6 @@
         </subPane>
       </pane>
       <pane id="Favorites" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,15 +163,16 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="C:/Program Files (x86)/Google/Google SketchUp 8/Plugins" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="52" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="473" />
+    <property name="DefaultHtmlFileTemplate" value="Html" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="463" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="473" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="52" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="51" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -441,28 +455,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/movable_ci.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="31" selection-start="167" selection-end="167" vertical-scroll-proportion="0.057692308">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/movable_ci.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="58" selection-start="1145" selection-end="1145" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="3" column="31" selection-start="167" selection-end="167" vertical-scroll-proportion="0.057692308" />
       </provider>
     </entry>
     <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/linetool.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="286" column="56" selection-start="10113" selection-end="10113" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="286" column="56" selection-start="10113" selection-end="10113" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/movable_ci.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="58" selection-start="1145" selection-end="1145" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://C:/Program Files (x86)/Google/Google SketchUp 8/Plugins/a/anim.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="65" selection-start="502" selection-end="502" vertical-scroll-proportion="0.40384614">
+        <state line="29" column="49" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="51" selection-start="793" selection-end="793" vertical-scroll-proportion="0.4224852">
           <folding />
         </state>
       </provider>
